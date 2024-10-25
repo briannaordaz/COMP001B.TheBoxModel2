@@ -39,6 +39,8 @@ p {
 	padding: 15px;
 	float: left;
 	margin: 20px;
+	width: 100px;
+	height: 100px;
 }
 
 .clear {
@@ -51,6 +53,8 @@ p {
 	padding: 15px;
 	float: left;
 	margin: 20px;
+	width: 200px;
+	
 }
 
 .record-label {
