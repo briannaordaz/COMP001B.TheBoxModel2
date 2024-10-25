@@ -43,7 +43,7 @@ p {
 
 .clear {
 	clear: both;
-	margin: 10px;
+
 }
 
 .image-electronics, .image-stage-effects {
@@ -59,7 +59,7 @@ p {
 }
 
 .track-list {
-
+	list-style-type: square;
 }
 
 #about-photo {
@@ -70,7 +70,9 @@ p {
 }
 
 #copyright {
-
+	color: red;
+	font-size: small;
+	margin-top: 20px;
 }
 
 #section-about, #section-discography, #section-equipment {
@@ -83,9 +85,9 @@ p {
 
 #text-intro {
 	border: 1px solid red;
-	background-color: darkslategray;
+	background-color: rgb(61, 57, 57);
 	color: red;
 	font-size: small;
 	padding: 10px;
-	margin: 10px;
+	margin: 20px;
 }
